@@ -3,7 +3,7 @@
 
 ### Deprecation notice
 
-This library is now deprecated. It's higly recommended to use [Material Design Components](https://github.com/material-components/material-components-web) instead.
+This library is now not deprecated. Thanks!
 
 ## Description
 
