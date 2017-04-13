@@ -1,7 +1,7 @@
 # [React-MDL][react-mdl-url]
 [![Maintenance Status][status-image]][status-url] [![NPM version][npm-image]][npm-url] [![Build Status Linux][circleci-image]][circleci-url] [![Coverage Status][coverage-image]][coverage-url] [![React MDL Reactiflux][discord-image]][discord-url]
 
-### Deprecation notice
+### Undeprecation notice
 
 This library is now not deprecated. Thanks!
 
